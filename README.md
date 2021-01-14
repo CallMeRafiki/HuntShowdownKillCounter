@@ -1,5 +1,5 @@
 # Hunt Showdown Kill Counter
-
+Python 3.7
 # How to Use
 1. 
 ```
